@@ -3,7 +3,6 @@
 ## **Overview**
 
 A **pixel-perfect Chatbot Flow Builder** built using **React, ReactFlow, and Tailwind CSS**.
-The project focuses on building **extensible, modular, and recruiter-friendly code** to create visually appealing chatbot flows.
 
 A chatbot flow is constructed by **dragging, dropping, and connecting nodes (messages)** to define the order of execution.
 
